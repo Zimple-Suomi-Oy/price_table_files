@@ -1,2 +1,3 @@
 import './app.css';
-export declare function App(): import("preact/compat").JSX.Element;
+import { h } from 'preact';
+export declare function App(): h.JSX.Element;
