@@ -152,6 +152,7 @@
   background: #eeedf1;
   font-weight: bold;
   z-index: 1;
+  font-size: 12px;
 }
 
 .price_table_value_row_mobile {
