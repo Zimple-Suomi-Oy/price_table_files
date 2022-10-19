@@ -4,6 +4,10 @@
   padding: 2rem;
 }
 
+.price_dialog_content  > div > h3 {
+  text-align: left !important
+}
+
 .zimple_price_table {
   width: 100%;
   text-align: left;
