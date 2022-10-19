@@ -4,7 +4,7 @@
   padding: 2rem;
 }
 
-.grid_row > h3 {
+.price_dialog_content  > div > h3 {
   text-align: left !important
 }
 
