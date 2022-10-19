@@ -172,6 +172,19 @@
   padding: 0 0.5rem;
 }
 
+.price_table_pseudo_button {
+  color: #d23577;
+  transition: 0.12s;
+  border-radius: 8px;
+  padding: 18px 18px 18px 18px;
+  border: 2px solid #d23577;
+}
+
+.price_table_pseudo_button:hover {
+  background: #d23577;
+  color: #ffffff;
+}
+
 .arrow {
   border: solid #9592a1;
   border-width: 0 2px 2px 0;
